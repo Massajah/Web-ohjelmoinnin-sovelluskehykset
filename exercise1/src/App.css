@@ -1,0 +1,361 @@
+
+.headerOuter{
+    background-color: #00005c;
+    color: white;
+    height: 80px;
+}
+
+.headerInner{
+    display: flex;
+    width: 800px;
+    margin-left: 27%;
+    margin-right: auto;
+}
+
+.headerInner > .menuElement{
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top: 3.5%;
+}
+
+.headerInner2{
+    display: flex;
+    width: 800px;
+    margin-right: 20px;
+}
+
+.headerInner2 > .menuElementTilaa{
+    margin-left: 250px;
+    margin-right: 30px;
+    margin-top: 3.5%;
+    background-color: white;
+    border: 0 solid white;
+    border-width: 10px;
+    border-radius: 20px;
+    color: black;
+    
+}
+
+.headerInner2 > .menuElementKirjaudu{
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 5%;
+}
+
+.headerInner2 > .menuElementValikko{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5%;
+    border: 2px solid white;
+    border-radius: 5px;
+
+}
+
+.boxes > .box1{
+    background-color: #7cc2be;
+    color: white;
+    height: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 1%;
+    padding-top: 20px;
+}
+.boxes > .box2{
+    background-color: #7cc2be;
+    color: white;
+    height: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 0.2%;
+    padding-top: 20px;
+}
+.boxes > .box3{
+    background-color: #6393eb;
+    color: white;
+    height: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 0.2%;
+    padding-top: 20px;
+}
+
+.boxElement{
+   
+    margin-left: 20px;
+}
+
+.bigBox{
+    display: flex;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 2000px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 1%;
+}
+
+.newsBox1{
+    background-color:rgb(228, 228, 228);
+    height: 2000px;
+    width: 70%;
+}
+
+.content{
+    margin-left: 3%;
+    
+}
+
+.contentHeader1{
+    font-size: 120%;
+    
+}
+
+.newsBox2{
+    background-color: rgb(228, 228, 228);
+    height: 2000px;
+    width: 30%;
+    margin-left: 20px;
+    
+}
+
+.logo{
+    margin-top: 3.5%;
+    margin-left: 0;
+    margin-right: 50px;
+    width: 33%;
+    height: 80%;
+    color: white
+}
+
+.covid{
+    width: 97%;
+}
+
+.contentAltHeader{
+    color: red
+}
+
+.news1{
+    font-size:xx-large;
+    
+}
+
+.news1 > p{
+    color: #2d2dff;
+}
+
+.thl{
+    width: 97%;
+}
+
+.content2Header{
+    height: 50px;
+    width: 330px;
+    border-bottom: 4px solid rgb(175, 175, 175);
+    background-color: rgb(228, 228, 228);
+    margin-left: 5%;
+}
+
+.content2Box1{
+    display: flex;
+    height: 125px;
+    width: 330px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 2%;
+    margin-left: 5%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+
+}
+
+.content2Box1Num{
+    height: 125px;
+    width: 60px;
+    background-color: rgb(228, 228, 228);
+}
+
+.num1{
+    margin-left: 60%;
+    margin-top: 70%;
+    color: #7cc2be;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.content2Box1News{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(228, 228, 228);
+}
+
+.content2Box2{
+    display: flex;
+    height: 105px;
+    width: 330px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 2%;
+    margin-left: 5%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+
+}
+
+.content2Box2Num{
+    height: 105px;
+    width: 60px;
+    background-color: rgb(228, 228, 228);
+}
+
+.num2{
+    margin-left: 60%;
+    margin-top: 70%;
+    color: #7cc2be;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.content2Box2News{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(228, 228, 228);
+}
+
+.content2Box3{
+    display: flex;
+    height: 145px;
+    width: 330px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 2%;
+    margin-left: 5%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+
+}
+
+.content2Box3Num{
+    height: 145px;
+    width: 60px;
+    background-color: rgb(228, 228, 228);
+}
+
+.num3{
+    margin-left: 60%;
+    margin-top: 70%;
+    color: #7cc2be;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.content2Box3News{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(228, 228, 228);
+}
+
+.content2Box4{
+    display: flex;
+    height: 165px;
+    width: 330px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 2%;
+    margin-left: 5%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+
+}
+
+.content2Box4Num{
+    height: 165px;
+    width: 60px;
+    background-color: rgb(228, 228, 228);
+}
+
+.num4{
+    margin-left: 60%;
+    margin-top: 70%;
+    color: #7cc2be;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.content2Box4News{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(228, 228, 228);
+}
+
+.content2Box5{
+    display: flex;
+    height: 145px;
+    width: 330px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 2%;
+    margin-left: 5%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+
+}
+
+.content2Box5Num{
+    height: 145px;
+    width: 60px;
+    background-color: rgb(228, 228, 228);
+}
+
+.num5{
+    margin-left: 60%;
+    margin-top: 70%;
+    color: #7cc2be;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.content2Box5News{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(228, 228, 228);
+}
+
+.content2Box6{
+    display: flex;
+    height: 145px;
+    width: 330px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 2%;
+    margin-left: 5%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+
+}
+
+.content2Box6Num{
+    height: 145px;
+    width: 60px;
+    background-color: rgb(228, 228, 228);
+}
+
+.num6{
+    margin-left: 60%;
+    margin-top: 70%;
+    color: #7cc2be;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.content2Box6News{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(228, 228, 228);
+}
+
+
+
+
+
+
